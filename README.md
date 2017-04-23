@@ -1,5 +1,5 @@
 # Nagariya
-### eGovernments Hackathon 2017 - Team 35
+### eGovernments Hackathon 2017
 
 <img src="https://github.com/JarvisStriker/Egov/blob/master/assets/images/nagariya-logo.png" />
 
