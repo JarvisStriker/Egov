@@ -1,0 +1,11 @@
+{
+  "name": "nagariya",
+  "version": "1.0.0",
+  "description": "<img src=\"https://github.com/egovernments/t35-hackapr17/blob/master/assets/images/nagariya-logo.png?raw=true\" />",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
